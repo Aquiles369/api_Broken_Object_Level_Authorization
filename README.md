@@ -40,7 +40,48 @@
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://medium.com/@batuhanaydinn/bug-bounty-hunter-recon-is-everything-part-1-6ba24a100c13
+https://freedium-mirror.cfd/https://medium.com/p/d93f54a6a9b0
+https://freedium-mirror.cfd/https://medium.com/@gowthami09027/api-pentesting-part-4-broken-object-level-authorization-the-silent-identity-swap-b6f38a4f8d10
+https://blog.robotti.io/the-danger-of-vibe-coding-how-a-broken-object-level-authorization-bola-bug-slipped-into-an-ai-c8173a0e8536
+https://adeolaodunlade.medium.com/understanding-broken-object-level-authorization-bola-what-it-is-how-it-happens-and-how-to-66d96b22b999
+https://medium.com/@kkrutika04/broken-object-level-authorization-bola-vulnerabilities-in-crapi-87da0ff73d44
+https://freedium-mirror.cfd/https://medium.com/@jameswizz/broken-object-level-authorization-203b5b8d2db6
+https://freedium-mirror.cfd/https://hafiqiqmal93.medium.com/the-backend-engineers-guide-to-broken-object-level-authorization-5b77bdbb00e0
+https://infosecwriteups.com/what-is-bola-3-digit-bounty-from-topcoder-a25e7fae0d64
+https://infosecwriteups.com/broken-object-level-authorization-vs-broken-functionality-level-authorization-api-hacking-aa360dcb0986
+https://infosecwriteups.com/api-pentesting-broken-object-level-authorization-bola-2227be0069dc
+https://freedium-mirror.cfd/https://medium.com/lets-code-future/broken-object-level-authorization-bola-the-api-flaw-you-cant-ignore-cc2a9d4e1b06
+https://medium.com/@bubu.tripathy/broken-object-level-authorization-bola-the-silent-threat-in-api-security-2fe5f57b21b2
+https://master-spring-ter.medium.com/owasp-api-security-top-1-broken-object-level-authorization-and-solutions-in-spring-boot-8f3742d4111b
+https://blackhawkk.medium.com/hunting-broken-object-level-authorization-9b499fc0f327
+https://medium.com/@suyogpatil1810/broken-object-level-authorization-bola-in-apis-leads-to-information-discloser-11ac03010d7a
+https://medium.com/@vssec/crapi-broken-object-level-authorization-bola-fbe2670a9490
+https://hasharmujahid.medium.com/broken-object-level-authorization-api-security-0x1-a1a2638fc8c9
+https://muh-hidayat7799.medium.com/owasp-api-security-offensive-prespective-broken-object-level-authorization-1-21dbdcfddae0
+https://freedium-mirror.cfd/https://gupta-bless.medium.com/api-security-broken-object-level-authorization-9010a5217558
+https://medium.com/@narendarlb123/broken-object-level-authorization-bola-complete-guide-part-3-14128a447743
+https://freedium-mirror.cfd/https://medium.com/@tihomir.manushev/fixing-owasp-api1-2023-broken-object-level-authorization-in-symfony-7-3bdc8247e8ad
+https://freedium-mirror.cfd/https://thexssrat.medium.com/understanding-and-testing-for-api1-2023-broken-object-level-authorization-d46a533bab93
+https://sourabhpradhan-pentest.medium.com/api-broken-object-level-authorization-bola-9369a6ceb5bb
+https://itnext.io/web-api-security-champion-broken-object-level-authorization-owasp-top-10-bc1d369592e2
+https://medium.com/@riteshs4hu/api-owas-top-10-part-1-broken-object-level-authorization-668e9a99746d
+https://freedium-mirror.cfd/https://medium.com/@sweshinfosec/identifying-and-mitigating-broken-object-level-authorization-bola-vulnerabilities-in-apis-bc137c03ce3a
+https://medium.com/traceable-and-true/owasp-api1-2019-what-is-broken-object-level-authorization-and-why-its-important-ab0c7efa86fe
+https://medium.com/@stux/from-broken-object-level-authorization-to-the-massive-financial-attack-93e70f26e30c
+https://freedium-mirror.cfd/https://medium.com/2023-owasp-top-10/broken-object-level-authorization-ola-30784ff0605f
+https://im4x.medium.com/discovered-30-bola-idor-vulnerabilities-in-a-single-subdomain-bbp-a382e4554e71
+https://freedium-mirror.cfd/https://meetcyber.net/bola-idor-critical-api-authorization-flaw-bug-bounty-detection-3203133a5040
+https://medium.com/@narendarlb123/broken-object-level-authorization-bola-complete-guide-part-6-d7ff06747919
+https://medium.com/@narendarlb123/broken-object-level-authorization-bola-complete-guide-part-14-82007437261b
+https://www.updatelap.com/2018/07/the-malicious-person-add-people-to-top.html
+https://arbazhussain.medium.com/idor-while-connecting-social-account-in-hackster-io-2296b316b7a7
+https://medium.com/@cjlegacion24/how-i-was-able-to-view-private-tweets-of-any-private-twitter-account-86a9d2640ded
+https://infosecwriteups.com/abusing-new-claps-feature-in-medium-6bd8757a64a4
+https://medium.com/@JubaBaghdad/how-i-was-able-to-delete-any-image-in-facebook-community-question-forum-a03ea516e327
+https://medium.com/@saamux/spoof-a-user-to-create-a-description-of-a-group-in-flickr-72b6b8432404
+https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704
+https://1337n0x.medium.com/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10
+https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631
 
 ```
 
