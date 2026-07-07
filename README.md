@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 207 informes reales sobre recon general de bug bounty que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 49 informes reales sobre recon general de bug bounty que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
@@ -82,10 +82,27 @@ https://medium.com/@saamux/spoof-a-user-to-create-a-description-of-a-group-in-fl
 https://medium.com/@aayushpokhrel/how-i-hacked-admin-account-via-password-reset-idor-of-one-private-currency-exchanger-site-51723c7c8704
 https://1337n0x.medium.com/idor-how-i-was-able-to-see-any-private-album-passwrod-in-picturepush-264913f45e10
 https://medium.com/@cachemoney/using-a-github-app-to-escalate-to-an-organization-owner-for-a-10-000-bounty-4ec307168631
+https://medium.com/@black_b/yahoo-idor-elimination-of-any-comment-e898f4f955f1
+https://blog.securitybreached.org/2018/09/16/idor-account-takeover-using-facebook/
+https://infosecwriteups.com/add-description-to-instagram-posts-on-behalf-of-other-users-6500-7d55b4a24c5a
+https://infosecwriteups.com/idor-in-jwt-and-the-shortest-token-you-will-ever-see-uid-1234567890-4e02377ea03a
+https://infosecwriteups.com/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342
+https://saadahmedx.medium.com/idor-account-takeover-1ff5a2d03b8b
+https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
 
 ```
-
 <br>
+
+"Dejo una plataforma con dork ya aplicado para encontrar aún más informes sobre IDOR. Muy interesante."
+
+```yam
+https://pentester.land/writeups/?s=Broken%20Object%20Level%20Authorization%20(BOLA)
+```
+<br>
+
+
+
+
 <br>
 
 url videos: 
