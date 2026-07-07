@@ -47,12 +47,10 @@ https://medium.com/@batuhanaydinn/bug-bounty-hunter-recon-is-everything-part-1-6
 <br>
 <br>
 
-url videos recon: 
+url videos: 
 ```yam
-http://youtube.com/watch?v=SVfFpVig-nw&t=4470s
-https://www.youtube.com/watch?v=nGs8pWIj5k4
-https://www.youtube.com/watch?v=N_Qyx836Y9s
-https://www.youtube.com/watch?v=-FAjxUOKbdI
+https://www.youtube.com/watch?v=_ISp2WGwqHI
+https://www.youtube.com/watch?v=Yr8qhYlIzXA
 ```
 
 <br>
