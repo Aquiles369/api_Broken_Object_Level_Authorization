@@ -1,4 +1,4 @@
-<h1 align="center">𓆩⚜𓆪 APIs Broken Object Level Authorization 𓆩⚜𓆪</h1>	
+<h1 align="center">𓆩⚜𓆪 APIs Broken Object Level Authorization (BOLA) 𓆩⚜𓆪</h1>	
 
 
 <br>
