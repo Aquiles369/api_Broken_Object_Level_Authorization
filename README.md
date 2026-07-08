@@ -101,10 +101,18 @@ https://pentester.land/writeups/?s=Broken%20Object%20Level%20Authorization%20(BO
 ```
 <br>
 
+url videos: 
+```yam
+https://www.youtube.com/watch?v=_ISp2WGwqHI
+https://www.youtube.com/watch?v=Yr8qhYlIzXA
+```
+
+
+
 
 <br>
 
-"Dejo una tambien lista de informes, comprensión de los identificadores únicos: UID, UUID, GUID, CUID y Nano ID"
+"Dejo también una lista de informes sobre la comprensión de los identificadores únicos: UID, UUID, GUID, CUID y Nano ID."
 
 ```yam
 https://osamadev.medium.com/understanding-unique-identifiers-uid-uuid-guid-cuid-and-nano-id-3ef2d104ecdf
@@ -117,18 +125,6 @@ https://medium.com/@RakanAllhyani/uuid-injection-0-click-superadmin-ato-3dc46a19
 https://medium.com/@tinopreter/500-for-a-uuid-swap-i-almost-gave-up-on-this-idor-ae7a0adb518d
 ```
 <br>
-
-
-
-
-
-<br>
-
-url videos: 
-```yam
-https://www.youtube.com/watch?v=_ISp2WGwqHI
-https://www.youtube.com/watch?v=Yr8qhYlIzXA
-```
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
