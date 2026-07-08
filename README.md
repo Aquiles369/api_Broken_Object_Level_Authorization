@@ -34,7 +34,7 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 49 informes reales sobre recon general de bug bounty que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
+**✦ En esta sección encontrarás 51 informes reales sobre recon general de bug bounty que leí, estudié y guardé en mi gestor de informes para bug bounty personal.**
 <br><br>
 
 
