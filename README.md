@@ -89,7 +89,8 @@ https://infosecwriteups.com/idor-in-jwt-and-the-shortest-token-you-will-ever-see
 https://infosecwriteups.com/how-i-was-able-to-generate-access-tokens-for-any-facebook-user-6b84392d0342
 https://saadahmedx.medium.com/idor-account-takeover-1ff5a2d03b8b
 https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
-
+http://z0h3.medium.com/how-to-test-for-idor-the-practical-methodology-fec3688febfb
+https://freedium-mirror.cfd/https://systemweakness.com/idor-mastery-from-basic-id-changes-to-advanced-techniques-that-pay-10k-bounties-1f106016e039
 ```
 <br>
 
@@ -99,6 +100,24 @@ https://philippeharewood.com/removing-profile-pictures-for-any-facebook-user/
 https://pentester.land/writeups/?s=Broken%20Object%20Level%20Authorization%20(BOLA)
 ```
 <br>
+
+
+<br>
+
+"Dejo una tambien lista de informes, comprensión de los identificadores únicos: UID, UUID, GUID, CUID y Nano ID"
+
+```yam
+https://osamadev.medium.com/understanding-unique-identifiers-uid-uuid-guid-cuid-and-nano-id-3ef2d104ecdf
+https://medium.com/@omarzzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec
+https://infosecwriteups.com/uuids-a-false-sense-of-security-10467497daae
+https://medium.com/pentesternepal/tackling-idor-on-uuid-based-objects-71e8cb2dc265
+https://medium.com/@dimpchubb/exploiting-uuids-in-account-takeover-a-penetration-testers-guide-to-bypassing-insecure-token-96de9cc520a3
+https://medium.com/@iski/how-i-cracked-the-uncrackable-uuids-and-found-every-users-secret-data-f0cd2224e09d
+https://medium.com/@RakanAllhyani/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad
+https://medium.com/@tinopreter/500-for-a-uuid-swap-i-almost-gave-up-on-this-idor-ae7a0adb518d
+```
+<br>
+
 
 
 
